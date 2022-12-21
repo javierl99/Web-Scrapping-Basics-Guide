@@ -1,2 +1,3 @@
 # Web-Scrapping-Basics-Guide
-After many trials with selenyum and requests, I have gotten more familiar with them. I decided to prepare a small summary with basic coding lines that may help us to start scrapping websites.
+En el fichero .ipynb podrás encontrar una pequeña guía con la que podrás acceder a una página web, extraer la información de utilidad y guardarla en una lista.
+Espero que te sea de utilidad!
